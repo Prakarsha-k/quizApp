@@ -1,8 +1,5 @@
-### **README for MERN Stack Quiz App**
 
----
-
-## **Project Overview**
+### **Project Overview**
 
 The **MERN Stack Quiz App** is a web-based platform where users can create, take, and manage quizzes. The app is built using the **MERN stack** (MongoDB, Express.js, React, Node.js) to provide a seamless and interactive experience for both **admins** and **students**. The app allows **admins** to create and manage quizzes, while **students** can take quizzes by entering a secret key and view their scores after completion.
 
