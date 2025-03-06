@@ -1,0 +1,25 @@
+# Node modules (should not be pushed)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables (important for security)
+.env
+
+# Logs
+logs/
+*.log
+debug.log
+npm-debug.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# MongoDB Data (if using local DB)
+data/
+dump/
