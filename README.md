@@ -67,16 +67,16 @@ git clone https://github.com/your-username/quiz-app.git
 ### **2. Install dependencies:**
 
 - For **frontend**:
-  Navigate to the `client` directory and install the dependencies:
+  Navigate to the `frontend` directory and install the dependencies:
   ```bash
-  cd client
+  cd frontend
   npm install
   ```
 
 - For **backend**:
-  Navigate to the `server` directory and install the dependencies:
+  Navigate to the `backend` directory and install the dependencies:
   ```bash
-  cd server
+  cd backend
   npm install
   ```
 
@@ -95,13 +95,13 @@ git clone https://github.com/your-username/quiz-app.git
 
 - Start the backend server:
   ```bash
-  cd server
+  cd backend
   npm start
   ```
 
 - Start the frontend development server:
   ```bash
-  cd client
+  cd frontend
   npm start
   ```
 
